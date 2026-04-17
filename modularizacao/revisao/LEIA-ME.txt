@@ -1,3 +1,7 @@
+# ESSE É UM EXEMPLO DO QUE NÃO FAZER!
+!!!!!!!Hardcoded
+
+
 Um petshop precisa de um sistema simples para calcular o valor do banho de cachorros.
 O preço do banho varia de acordo com o peso e a raça do animal.
 
