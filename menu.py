@@ -1,3 +1,4 @@
+# EXEMPLO DO QUE NÃO FAZER
 def menu():
     print("Menu de Raças de Cachorros")
     print("1 - Vira-lata")
