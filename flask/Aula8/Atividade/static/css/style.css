@@ -1,14 +1,10 @@
-/* =============================================
-   PAINEL DE CONSULTAS MÉDICAS — style.css
-   Arquivo fornecido. NÃO MODIFICAR.
-   ============================================= */
 
 @import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,wght@0,300;0,400;0,600;1,300&family=Plus+Jakarta+Sans:wght@300;400;500;600;700&display=swap');
 
-/* === RESET === */
+
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
-/* === TOKENS === */
+
 :root {
     --white:        #FFFFFF;
     --off-white:    #F7F9FC;
@@ -149,7 +145,7 @@ body {
     z-index: 1;
 }
 
-/* === HERO === */
+
 .hero {
     text-align: center;
     max-width: 520px;
@@ -179,7 +175,7 @@ body {
     font-weight: 400;
 }
 
-/* === CARDS BASE === */
+
 .card {
     background: var(--white);
     border: 1px solid var(--border-soft);
@@ -187,7 +183,7 @@ body {
     box-shadow: var(--shadow-md);
 }
 
-/* === CARD FORM === */
+
 .card-form {
     padding: 28px;
     animation: fadeUp 0.5s 0.1s ease both;
